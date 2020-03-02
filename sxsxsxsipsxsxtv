@@ -1,0 +1,35 @@
+#EXTm3u
+#EXTINF:0 tvg-id="ext" group-title="MBC", MBC 1 HD
+http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC", MBC 2 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="MBC", MBC 3 HD
+http://livecdnh2.tvanywhere.ae/hls/mbc3/03.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="MBC", MBC 4 HD 
+http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="MBC", MBC MAX HD 
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="MBC", MBC Drama HD 
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="MBC", MBC Masr HD 
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/03.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Rotana", Rotana Classic HD
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Rotana", Rotana Clip HD 
+http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Rotana", Rotana Drama HD
+http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Rotana", Rotana Khalijia HD
+http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Rotana", Rotana Cinema HD 
+http://livecdnh3.tvanywhere.ae/hls/rotcinema/index.m3u8
