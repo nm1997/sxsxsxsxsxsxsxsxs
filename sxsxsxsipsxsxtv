@@ -1,4 +1,10 @@
 #EXTm3u
+#EXTINF:0 tvg-id="ext" group-title="News", BBC Arabic HD
+https://www.youtube.com/watch?v=HxI2TxhhS9A
+
+#EXTINF:0 tvg-id="ext" group-title="News", Sharqiya News HD
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="MBC", MBC 1 HD
 http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
 
