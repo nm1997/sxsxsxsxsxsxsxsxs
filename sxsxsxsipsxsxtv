@@ -14,8 +14,14 @@ http://livecdnh2.tvanywhere.ae/hls/mbc3/03.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC", MBC 4 HD 
 http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="MBC", MBC 5 HD 
+https://shls-mbc5-prod.shahid.net/mbc5-prod_2.m3u8?filter=144_720&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTU4NTUyNzU5MCwiaWF0IjoxNTg1NDkxNTkwLCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1iYzItcHJvZC5zaGFoaWQubmV0L21iYzItcHJvZC5tM3U4P2ZpbHRlcj0xNDRfNzIwIn0.mnRwCyvOA_cB42V0rzrZEJYMRFoVVEHDit9IuwwtApo
+
 #EXTINF:0 tvg-id="ext" group-title="MBC", MBC MAX HD 
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="MBC", MBC Action HD
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="MBC", MBC Drama HD 
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
