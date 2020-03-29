@@ -1,8 +1,12 @@
 #EXTm3u
 #EXTINF:0 tvg-id="ext" group-title="MBC", MBC 1 HD
 http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="MBC", MBC 2 HD
 http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="MBC", MBC Iraq HD
+http://iptv-luxe.com:8789/live/africane/3215687j/28214.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="MBC", MBC 3 HD
 http://livecdnh2.tvanywhere.ae/hls/mbc3/03.m3u8
