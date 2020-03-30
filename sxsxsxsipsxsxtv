@@ -2,6 +2,21 @@
 #EXTINF:0 tvg-id="ext" group-title="News", BBC Arabic HD
 https://www.youtube.com/watch?v=HxI2TxhhS9A
 
+#EXTINF:0 tvg-id="ext" group-title="Religion", Noursat HD
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Religion", Nour-el-shabab HD
+https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Religion", Nour-el-charq HD
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Religion", Nour-mariam HD
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Religion", Nour-el-kodass HD
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="News", Rudaw TV HD
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yOS8yMDIwIDk6NDA6MjMgUE0maGFzaF92YWx1ZT02amdRMTE4SGQ3OS9BQlkxbWdaQVhRPT0mdmFsaWRtaW51dGVzPTIw'
 
