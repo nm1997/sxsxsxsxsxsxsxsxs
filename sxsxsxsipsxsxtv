@@ -2,6 +2,9 @@
 #EXTINF:0 tvg-id="ext" group-title="News", BBC Arabic HD
 https://www.youtube.com/watch?v=HxI2TxhhS9A
 
+#EXTINF:0 tvg-id="ext" group-title="Iraq", Ishtar TV HD
+https://live.vimeocdn.com/1585597886-0x06bae10e5c6135fd47b1c701b47fe33190e27ecc/e0f712b2-7b04-4584-82b1-4aadae4183a4/chunklist_b416000.m3u8?max_segments=10
+
 #EXTINF:0 tvg-id="ext" group-title="Religion", Noursat HD
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 
