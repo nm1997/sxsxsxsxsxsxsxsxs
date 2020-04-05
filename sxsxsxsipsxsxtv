@@ -42,7 +42,7 @@ http://livecdnh2.tvanywhere.ae/hls/mbc3/03.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="MBC", MBC 5 HD 
-https://shls-mbc5-prod.shahid.net/mbc5-prod_2.m3u8?filter=144_720&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTU4NjAzMjI4OCwiaWF0IjoxNTg1OTk2Mjg4LCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1iYzItcHJvZC5zaGFoaWQubmV0L21iYzItcHJvZC5tM3U4P2ZpbHRlcj0xNDRfNzIwIn0.0qKNA_TNx0YVIBRplvY0p1H9jiNyijT9mhQIxHIIBjs
+https://shls-mbc5-prod.shahid.net/mbc5-prod_2.m3u8?filter=144_720&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTU4NjExOTI2NywiaWF0IjoxNTg2MDgzMjY3LCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1iYzItcHJvZC5zaGFoaWQubmV0L21iYzItcHJvZC5tM3U4P2ZpbHRlcj0xNDRfNzIwIn0.i3fbMi2HrOogsfwO8OVqsjed9hdgx14y2fi5bS4F94U
 
 #EXTINF:0 tvg-id="ext" group-title="MBC", MBC MAX HD 
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
