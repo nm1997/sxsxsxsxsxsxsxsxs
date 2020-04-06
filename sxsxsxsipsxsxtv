@@ -70,3 +70,65 @@ http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Rotana", Rotana Cinema HD 
 http://livecdnh3.tvanywhere.ae/hls/rotcinema/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Kurdish", Kurdmax Sorani HD
+https://www.karwan2.de/karwan.tv/kurdmax-sorani/chunks.m3u8?nimblesessionid=10789&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzo0Mzo0MSBBTSZoYXNoX3ZhbHVlPXovZWxnUkVCajYzYkg0UWhpaHZiYlE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:0 tvg-id="ext" group-title="Kurdish", Kurdsat TV HD
+https://www.karwan1.de/karwan.tv/kurdsat-tv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgODowMTowMCBBTSZoYXNoX3ZhbHVlPW1IM0hURkNVb253N0tHYkdrbE5iVXc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:0 tvg-id="ext" group-title="Kurdish", NRT HD
+https://www.karwan1.de/karwan.tv/nalia-tv/chunks.m3u8?nimblesessionid=1277039&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzo1MzoxNyBBTSZoYXNoX3ZhbHVlPU9ZeHllTm4xSTJzWEpTS3k2NU1VY2c9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:0 tvg-id="ext" group-title="Kurdish", Kurdistan24 HD
+https://www.karwan1.de/karwan.tv/kurdistan24-tv/chunks.m3u8?nimblesessionid=1277270&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzo1NToyOCBBTSZoYXNoX3ZhbHVlPWJGTUFTTGFkMmdDbi9QNWdqSGRTb1E9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:0 tvg-id="ext" group-title="Kurdish", NewLine TV HD
+https://www.karwan1.de/karwan.tv/newline-tv/chunks.m3u8?nimblesessionid=1277480&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzo1NzowMCBBTSZoYXNoX3ZhbHVlPURYMngvM2QxclFPNnFIeERENTQvaHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:0 tvg-id="ext" group-title="Kurdish", Kurdmax Show TV HD
+https://www.karwan1.de/karwan.tv/kurdmax-show-sorani/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzo1ODoxOSBBTSZoYXNoX3ZhbHVlPTh6OVhKZXRQdlMraWVsYk5mVXJ5Q0E9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:0 tvg-id="ext" group-title="Kurdish", Kurdmax Kurmanci HD
+https://www.karwan2.de/karwan.tv/kurdmax-tv-ku/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzo1OTo0NSBBTSZoYXNoX3ZhbHVlPU9BOUY1YW1FenVwbmMzQzRKNnFyUFE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:0 tvg-id="ext" group-title="Kurdish", Ronahî TV HD
+https://www.karwan1.de/karwan.tv/ronahi-tv/chunks.m3u8?nimblesessionid=1278205&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgODowNjowMiBBTSZoYXNoX3ZhbHVlPXYyME1TNldYS3hzRE9nOWdQczZDQ1E9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:0 tvg-id="ext" group-title="Kurdish", Aryen TV HD
+https://www.karwan1.de/karwan.tv/aryen-tv/chunks.m3u8?nimblesessionid=1278514&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgODowOToyOCBBTSZoYXNoX3ZhbHVlPUVkeDkvTTVJMnVaSnd2SGxTVTJJbUE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:0 tvg-id="ext" group-title="Kurdish", Cihan TV HD
+https://www.karwan1.de/karwan.tv/cihan-tv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgODoxMDozMSBBTSZoYXNoX3ZhbHVlPUE5Rm1qTmE3cWlUU2RYZ2s2dmF1ZHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:0 tvg-id="ext" group-title="Kurdish", WAAR TV HD
+https://www.karwan1.de/karwan.tv/waar-tv/chunks.m3u8?nimblesessionid=1278671&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgODoxMTozNyBBTSZoYXNoX3ZhbHVlPUhhSThDaE80U0EyQStxSElyTVc2YkE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:0 tvg-id="ext" group-title="Kurdish", Kurdsat News HD
+https://www.karwan1.de/karwan.tv/kurdsat-news-tv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgODoxMjo0NSBBTSZoYXNoX3ZhbHVlPWRkUzRoUklrWDdwTGN1UWN1OWhmVlE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:0 tvg-id="ext" group-title="Kurdish", Newsline TV 2 HD
+https://www.karwan1.de/karwan.tv/newline-tv-2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgODoxNDowMyBBTSZoYXNoX3ZhbHVlPWRZUCtiQTFKV0hHMHhyYmNMOEordEE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:0 tvg-id="ext" group-title="Kurdish", Habun TV HD
+https://www.karwan1.de/karwan.tv/habun-tv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgODoxNTowNiBBTSZoYXNoX3ZhbHVlPUdNWFM4MTBYNnNUQmdZL2JINVJSL2c9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:0 tvg-id="ext" group-title="Kurdish", Arti TV HD
+https://www.karwan1.de/karwan.tv/arti-tv/chunks.m3u8?nimblesessionid=1279124&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgODoxNjozNiBBTSZoYXNoX3ZhbHVlPVE5TTIwWGRZR2l6R0hiYnMvS0xabHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:0 tvg-id="ext" group-title="Kurdish", Stêrk TV HD
+https://www.karwan1.de/karwan.tv/sterk-tv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgODoxODozNyBBTSZoYXNoX3ZhbHVlPSt3ZE9EYkF3UnpaUkJQemVTUEhVa1E9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:0 tvg-id="ext" group-title="Kurdish", Medyal Haber TV HD
+https://www.karwan1.de/karwan.tv/medya-haber-tv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgODoxOTozOCBBTSZoYXNoX3ZhbHVlPUJyam14TkQyNVZ6SnJWOHBQaDRNUVE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:0 tvg-id="ext" group-title="Kurdish", Kurdistan TV HD
+https://www.karwan1.de/karwan.tv/kurdistan-tv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgODoyMDo0MiBBTSZoYXNoX3ZhbHVlPS9XcGMwTEM2U3pHVThaVWNOcno5U3c9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:0 tvg-id="ext" group-title="Kurdish", Spêda TV HD
+https://www.karwan1.de/karwan.tv/speda-tv/chunks.m3u8?nimblesessionid=1279569&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgODoyMjo1MCBBTSZoYXNoX3ZhbHVlPUdqQ0MrVmI5U1ZZM3lXOVhlMzV6T3c9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:0 tvg-id="ext" group-title="Kurdish", Zayala TV HD
+https://www.karwan1.de/karwan.tv/zayala-tv/chunks.m3u8?nimblesessionid=1279661&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgODoyNDowMyBBTSZoYXNoX3ZhbHVlPVRrUHlocExqczY0NElXLzZ2VkNLV2c9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+
