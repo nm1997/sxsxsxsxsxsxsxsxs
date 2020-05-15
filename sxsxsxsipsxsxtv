@@ -71,6 +71,9 @@ http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Rotana", Rotana Cinema HD 
 http://livecdnh3.tvanywhere.ae/hls/rotcinema/index.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Rotana", Rotana Comedy HD
+http://livecdnh3.tvanywhere.ae/hls/rotaflam/03.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Kurdish", Kurdmax Sorani HD
 https://www.karwan2.de/karwan.tv/kurdmax-sorani/chunks.m3u8?nimblesessionid=10789&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzo0Mzo0MSBBTSZoYXNoX3ZhbHVlPXovZWxnUkVCajYzYkg0UWhpaHZiYlE9PSZ2YWxpZG1pbnV0ZXM9MjA=
 
